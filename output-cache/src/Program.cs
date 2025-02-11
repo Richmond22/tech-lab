@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using output_cache.configuration;
 using output_cache.configurations;
 using output_cache.endpoints;

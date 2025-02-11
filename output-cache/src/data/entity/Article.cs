@@ -1,3 +1,5 @@
+using System;
+
 namespace output_cache.data.entity;
 
 public class Article

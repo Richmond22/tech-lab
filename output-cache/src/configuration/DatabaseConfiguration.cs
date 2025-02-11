@@ -1,4 +1,7 @@
+using System;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 using output_cache.data;
 using output_cache.options;
